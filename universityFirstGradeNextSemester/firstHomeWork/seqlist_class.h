@@ -13,5 +13,8 @@ public:
     void Erase(int id);
     void Clear();
     // 用于读取的成员函数
-    void Type& Getdata
-}
+    void Type& Getdata(int id)const;
+    int Size()const;
+    int Empty()const;
+    int Full()const;
+};
