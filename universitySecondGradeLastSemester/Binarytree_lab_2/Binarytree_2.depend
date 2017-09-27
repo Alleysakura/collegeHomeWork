@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1505784833 source:c:\documents and settings\administrator\桌面\binarytree_2\binarytree_2\main.cpp
+	<iostream>
+	"BTNode.h"
+	"Queue.h"
+	"Stack.h"
+
+1505781827 c:\documents and settings\administrator\桌面\binarytree_2\binarytree_2\btnode.h
+
+1505782009 c:\documents and settings\administrator\桌面\binarytree_2\binarytree_2\queue.h
+	"List.h"
+
+1505781900 c:\documents and settings\administrator\桌面\binarytree_2\binarytree_2\list.h
+	<stdlib.h>
+
+1505783453 c:\documents and settings\administrator\桌面\binarytree_2\binarytree_2\stack.h
+	"List.h"
+	"List.h"
+
