@@ -24,7 +24,7 @@ class List
 		tail = new Node();
 		head->next = tail;
 		tail->prev = head;
-	}
+	};
 public:
 	class const_iterator
 	{
